@@ -13,5 +13,36 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="References">
+      <UniqueIdentifier>{ece8f87a-1aaf-43a6-b594-1cb3f7a2890b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Archive.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="main.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Archive.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GuessNumber.c">
+      <Filter>References</Filter>
+    </ClCompile>
+    <ClCompile Include="SelectionSort.c">
+      <Filter>References</Filter>
+    </ClCompile>
+    <ClCompile Include="InsertionSort.c">
+      <Filter>References</Filter>
+    </ClCompile>
+    <ClCompile Include="MergeSort.c">
+      <Filter>References</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
