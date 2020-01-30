@@ -32,9 +32,6 @@
     <ClCompile Include="main.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="GuessNumber.c">
-      <Filter>References</Filter>
-    </ClCompile>
     <ClCompile Include="SelectionSort.c">
       <Filter>References</Filter>
     </ClCompile>

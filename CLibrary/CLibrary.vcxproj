@@ -122,7 +122,6 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Archive.c" />
-    <ClCompile Include="GuessNumber.c" />
     <ClCompile Include="InsertionSort.c" />
     <ClCompile Include="main.c" />
     <ClCompile Include="MergeSort.c" />
